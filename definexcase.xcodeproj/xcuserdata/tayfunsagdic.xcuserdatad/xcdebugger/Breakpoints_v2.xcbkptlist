@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B1064A2F-B5D9-44D7-9E49-3648C5F81C71"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E10C093-0E6E-4B1D-BDA7-464E50A1F4B5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "definexcase/Services/DefinexService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "request(from:method:bodyParameters:headers:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1E10C093-0E6E-4B1D-BDA7-464E50A1F4B5 - 2820fb1034b18852"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "definexcase.DefinexServiceImpl.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: definexcase.APIResponse&gt;(from: definexcase.DefinexAPI, method: definexcase.HTTPMethod, bodyParameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, definexcase.APIError&gt;"
+                  moduleName = "definexcase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tayfunsagdic/Desktop/definexcase-main/definexcase/Services/DefinexService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "2124">
+               </Location>
+               <Location
+                  uuid = "1E10C093-0E6E-4B1D-BDA7-464E50A1F4B5 - b81236d21bd58337"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.URLError) -&gt; definexcase.APIError in definexcase.DefinexServiceImpl.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: definexcase.APIResponse&gt;(from: definexcase.DefinexAPI, method: definexcase.HTTPMethod, bodyParameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, definexcase.APIError&gt;"
+                  moduleName = "definexcase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tayfunsagdic/Desktop/definexcase-main/definexcase/Services/DefinexService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19E6D1CF-CD8B-44FF-AE0C-A7FECB932C5D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "definexcase/Services/DefinexService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "request(from:method:bodyParameters:headers:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFB11724-FA36-46F2-B07F-F14688892ED4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "definexcase/Views/Auth/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "performLogin()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

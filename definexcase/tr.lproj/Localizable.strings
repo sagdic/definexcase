@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  definexcase
+
+  Created by Digiturk on 21.01.2023.
+  
+*/
+
+"email" = "E-posta Adresi";
+"password" = "Şifre";
+"login" = "GİRİŞ";
+"forgotpass" = "ŞİFREMİ UNUTTUM";
+"home" = "Anasayfa";
+"discover" = "Keşfet";
+"cart" = "Sepet";
+"profile" = "Profil";
+"favorite" = "Favoriler";
+"second" = "İkinci";
+"comingsoon" = "Çok Yakında";
+"notyet" = "Bu özellik henüz eklenmedi.";
+"dismiss" = "Tamam";

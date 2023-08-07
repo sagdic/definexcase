@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  definexcase
+
+  Created by Digiturk on 21.01.2023.
+  
+*/
+
+"email" = "E-mail Address";
+"password" = "Password";
+"login" = "LOGIN";
+"forgotpass" = "I FORGOT MY PASS";
+"home" = "Home";
+"discover" = "Discover";
+"cart" = "Cart";
+"profile" = "Profile";
+"favorite" = "Favorite";
+"second" = "Second";
+"comingsoon" = "Coming Soon";
+"notyet" = "This feature has not been added yet.";
+"dismiss" = "Dismiss";
+
